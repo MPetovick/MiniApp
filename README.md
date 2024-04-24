@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 [LaLiga #1](acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f)
+
+<acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f>
